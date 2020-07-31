@@ -34,7 +34,7 @@ This test (and others) will always fail due to other broken funcionality (unable
 
 ### Record Issues
 
-Issues have been recorded in a Markdown document.
+Issues have been recorded in a markdoww document- [docs/BUG-TRACKER.md](docs/BUG-TRACKER.md)
 
 ## Going Forward
 
