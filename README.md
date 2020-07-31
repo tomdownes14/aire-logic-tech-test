@@ -7,13 +7,10 @@
 - Windows OS x64
 - Python 3.6+
 - Chrome 85
-- Firefox 79
 
 ### Run Test Suites
 
 __chrome__ - `python3 -m unittest`
-
-__firefox__ - `BROWSER=firefox python3 -m unittest`
 
 ## Approach
 
@@ -44,6 +41,8 @@ Issues have been recorded in a Markdown document.
 Given more time and resources I would like to have done the following:
 
 - Re-use browser sessions where appropriate
+- Cross browser testing
+- Mobile device testing
 - Control test data
 - Generate test reports
 - Unit tests for individual UI components
