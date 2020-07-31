@@ -1,4 +1,4 @@
-# ISSUE TRACKER
+# BUG TRACKER
 
 ## Can access other players' games
 
