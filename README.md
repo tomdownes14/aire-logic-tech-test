@@ -8,9 +8,13 @@
 - Python 3.6+
 - Chrome 85
 
+### Install Dependencies
+
+`pip install -r requirements.txt`
+
 ### Run Test Suites
 
-__chrome__ - `python3 -m unittest`
+__chrome__ - `python -m unittest`
 
 ## Approach
 
